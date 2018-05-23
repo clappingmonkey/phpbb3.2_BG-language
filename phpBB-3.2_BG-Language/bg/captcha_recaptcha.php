@@ -40,13 +40,13 @@ $lang = array_merge($lang, array(
 	'RECAPTCHA_LANG'				=> 'bg',
 	'RECAPTCHA_NOT_AVAILABLE'		=> 'За да използвате reCaptcha, първо трябва да си създадете профил в <a href="http://www.google.com/recaptcha">www.google.com/recaptcha</a>.',
 	'CAPTCHA_RECAPTCHA'				=> 'reCaptcha',
-	'RECAPTCHA_INCORRECT'			=> 'Визуланият код, който изпратихте е грешен',
+	'RECAPTCHA_INCORRECT'			=> 'Моля завършете проверката против ботове',
+	'RECAPTCHA_NOSCRIPT'			=> 'Моля, разрешете JavaScript във Вашия браузър за да заредите проверката против ботове.',
 
 	'RECAPTCHA_PUBLIC'				=> 'Публичен reCaptcha ключ',
-	'RECAPTCHA_PUBLIC_EXPLAIN'		=> 'Вашият публичен reCaptcha ключ. Ключа може да бъде взет от <a href="http://www.google.com/recaptcha">www.google.com/recaptcha</a>.',
+	'RECAPTCHA_PUBLIC_EXPLAIN'		=> 'Вашият публичен reCaptcha ключ. Ключът може да бъде взет от <a href="http://www.google.com/recaptcha">www.google.com/recaptcha</a>.',
 	'RECAPTCHA_PRIVATE'				=> 'Частен reCaptcha ключ',
-	'RECAPTCHA_PRIVATE_EXPLAIN'		=> 'Вашият частен reCaptcha ключ. Ключа може да бъде взет от <a href="http://www.google.com/recaptcha">www.google.com/recaptcha</a>.',
+	'RECAPTCHA_PRIVATE_EXPLAIN'		=> 'Вашият частен reCaptcha ключ. Ключът може да бъде взет от <a href="http://www.google.com/recaptcha">www.google.com/recaptcha</a>.',
 
-	'RECAPTCHA_EXPLAIN'				=> 'За да предотвратим автоматичните регистрации и публикации, Ви молим да въведете всички символи от изображението.',
-	'RECAPTCHA_SOCKET_ERROR'		=> 'Има проблем с връзката към RECAPTCHA сървъра: не може да се отвори socket. Опитайте отново.',
+	'RECAPTCHA_EXPLAIN'				=> 'За да предотвратим автоматичните регистрации и публикации, Ви молим да завършите проверката против ботове.',
 ));
